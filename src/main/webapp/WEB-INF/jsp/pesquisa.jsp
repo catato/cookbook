@@ -10,7 +10,7 @@
 <table cellpadding="0px" cellspacing="0px"> 
 <tr> 
 <td style="border-style:solid none solid solid;border-color:#4B7B9F;border-width:1px;">
-
+ 
 </td>
 </td>
 </tr>
@@ -27,16 +27,24 @@
 </br>
 <a href="/ListarReceita">Listar Receita</a>
 </br>
-<a href="/pesquisar">Pesquisar Receita</a>
+
  
 
 </div>
 
 <div id="content" style="background-color:#EEEEEE;height:400px;width:650px;float:left;">
+
+ <form method = "POST" action="receita/pesquisa">
+   
+   <input type ="text" name="campoPesquisar"/>  <input type ="submit" value="Pesquisar"/>    
+ </form>
+ </br>
+ <input type="button" value="Voltar" color="#505050" onclick="javascript:history.go(-1)">
+ 
 </div>
 
 <div id="footer" style="background-color:#C0C0C0;clear:both;text-align:center;">
-trabalho de grupo  ULHT COOKBOOK-ES</div>
+trabalho de grupo ULHT COOKBOOK-ES</div>
 
 </div>
 

@@ -45,7 +45,9 @@ font-size:12px;
 <p>Problema: ${receita.problema}</p>
 <p>Autor:    ${receita.autor}</p>
 <p>Solução:  ${receita.solucao}</p>
-<p> Criado às: ${receita.data}<br><br><br><br><br><br><br><input type="button" value="Voltar" color="#505050" onclick="javascript:history.go(-1)"></p>
+<p> Criado às: ${receita.creationTimestamp}<br><br><br><br><br><br><br>
+<input type="button" value="Voltar" color="#505050" onclick="javascript:history.go(-1)"></p>
+
 
 </div>
 
@@ -54,7 +56,7 @@ font-size:12px;
 
 
 <div id="footer" style="background-color:#C0C0C0;clear:both;text-align:center; width: 661px; height: 24px">
-Copyright © ULHT COOKBOOK-ES</div>
+trabalho de grupo ULHT COOKBOOK-ES</div>
 
 </div>
 

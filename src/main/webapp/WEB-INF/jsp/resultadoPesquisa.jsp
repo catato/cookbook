@@ -55,4 +55,4 @@ font-size:12px;
 </div>
 
 <div id="footer" style="background-color:#C0C0C0;clear:both;text-align:center;">
-trabalho de grupo  ULHT COOKBOOK-ES</div>
+trabalho de grupo ULHT COOKBOOK-ES</div>

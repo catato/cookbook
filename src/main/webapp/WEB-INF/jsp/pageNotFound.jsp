@@ -6,6 +6,8 @@
 <title>Not Found</title>
 </head>
 <body>
-    This is not the page you are looking for...
+
+    Este não é a pagina que estas a procurar....
+   
 </body>
 </html>
